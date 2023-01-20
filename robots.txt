@@ -1,0 +1,361 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>IJMB and JUPEB 2020/2021 Registration Form | How To Register For IJMB and JUPEB </title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+
+  <link href="/static/abinalogo.png" rel="icon">
+  <link href="/static/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="/static/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="/static/assets/vendor/icofont/icofont.min.css" rel="stylesheet">
+  <link href="/static/assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="/static/assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="/static/assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="/static/assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="/static/assets/vendor/aos/aos.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href=" /static/assets/css/style.css" rel="stylesheet">
+
+
+</head>
+
+
+<body>
+
+
+  <header id="header" class="fixed-top">
+    <div class="container d-flex align-items-center">
+       <a href="/form_page/"><img style="width: 200px;" src="/static/abinalogos.jpg"></a> <br>
+       
+
+
+       <nav class="nav-menu d-none d-lg-block">
+
+        <ul>
+          <li class="active"><a href="/form_page/">Home</a></li>
+          <li><a href="#about">About</a></li>
+
+
+          <li class="drop-down"><a href="#">IJMBE AND JUPEB</a>
+            <ul>
+              <li><a href="#whatis">What is IJMBE and JUPEB</a></li>
+              <li ><a href="/buy_form/">IJMBE FORM</a></li>
+
+            </ul>
+          </li>
+          <li><a href="#contact">Contact</a></li>
+          <li><a href="/login/">Login</a></li>
+
+        </ul>
+      </nav><!-- .nav-menu -->
+
+      <a href="/buy_form/" class="get-started-btn scroll ">Register Here</a>
+
+    </div>
+  </header><!-- End Header -->
+
+
+  <!-- ======= Hero Section ======= -->
+  <section id="hero" class="d-flex justify-content-center align-items-center">
+    <div class="container position-relative" data-aos="zoom-in" data-aos-delay="100">
+      <h1>Gain Admission Into,<br>200 Level in Any University In Nigeria <br>with Ease</h1>
+      <h2>No JAMB Required <br>  <br>07013137970</h2>
+      <a href="/buy_form/" class="btn-get-started">Get Started</a>
+    </div>
+  </section><!-- End Hero -->
+
+  <main id="main">
+
+
+
+       <section id="about" class="about">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>D-FAS-Alevels</h2>
+        <!--  <p>About Us</p> -->
+        </div>
+
+        <div class="row">
+          <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
+            <img style="width: 100%" src="/static/single.jpg" class="img-fluid" alt="">
+          </div>
+          <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
+            <h3 id=>ABOUT US</h3>
+            <p class="font-italic">
+            D-FAS A’levels Educational Service is an accredited Educational Center for JUPEB and IJMB Program, with the aim of creating new routes for alternative University Admission via IJMB and JUPEB. Our establishment has been approved by NUC.
+
+
+            </p>
+              <br>
+
+
+              <h4><strong>WHAT WE OFFER.</strong></h4>
+
+              <p>Statistics have shown that our type is very rare because we don’t only create admission pathway for aspirants but we also make sure to provide all the support for all our prospective students in terms of securing admission in their dream institution.</p>
+
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End About Section -->
+
+    <!-- ======= Counts Section ======= -->
+    <section>
+
+
+
+
+
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about mt-0">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title ">
+          <h2>D-FAS-Alevels</h2>
+        <!--  <p>About Us</p> -->
+        </div>
+
+        <div class="row">
+          <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
+            <img style="width: 100%;" src="/static/double.jpg" class="img-fluid" alt="">
+          </div>
+          <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
+            <h3>ABOUT A'LEVEL PROGRAMMES</h3>
+            <p class="font-italic">
+             Are you tired on putting in for UTME Examination Yearly, or are you looking for  a better way to gain admission into the university without UTME Examination? Here is a great oppurtunity for you. Come and put in for A’levels programme which can help you to gain admission into the university of your choice together with your dream course.  With IJMB and JUPEB you are covered to provide a sure entry into the university.
+
+
+            </p>
+
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End About Section -->
+
+    <!-- ======= Counts Section ======= -->
+    <hr>
+   
+
+        <section id="whatis" class="about">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>D-FAS-Alevels</h2>
+        <!--  <p>About Us</p> -->
+        </div>
+
+        <div class="row">
+          <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
+            <img src="/static/ijmb.png" class="img-fluid" alt="">
+              <br>
+            <img style="width: 150px;" src="/static/jupeb.png" class="img-fluid" alt="">
+          </div>
+          <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
+            <h3>WHAT IS IJMBE AND JUPEB</h3>
+            <p class="font-italic">
+           IJMBE Simply means Interim Joint Matriculation Board Examination, while JUPEB means Joint University Preliminary Examination Board. IJMB and JUPEB is an A’level programme that will take any students into <b>200</b>  level in any university of their choice.
+IJMBE and JUPEB does not require UTME AND Post UTME . IJMBE and JUPEB is a direct entry programme and with this programme we assure you 100% success during the final IJMBE and JUPEB examination ALL courses available in science , social science and Art
+We assure you 100% gurantee ad admission in any university irrespective of the student dream course.
+
+
+
+
+            </p>
+
+
+
+
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End About Section -->
+
+    <!-- STOP -->
+    <section id="counts" class="counts section-bg">
+      <div class="container">
+
+        <div class="row counters">
+
+            <div class="col-lg-3 col-6 text-center">
+            <span data-toggle="counter-up">7,000</span>
+            <p>Past students</p>
+          </div>
+
+
+          <div class="col-lg-3 col-6 text-center">
+            <span data-toggle="counter-up" >14</span>
+            <p>Years Of Excellence</p>
+          </div>
+
+
+
+           <div class="col-lg-3 col-6 text-center">
+            <span data-toggle="counter-up">600</span>
+            <p>Current Students</p>
+          </div>
+
+          <div class="col-lg-3 col-6 text-center">
+            <span data-toggle="counter-up">99.5</span>%
+            <p>Admission Rate</p>
+          </div>
+
+
+
+        </div>
+
+      </div>
+    </section>
+
+
+        <br>
+        <br>
+        <br>
+
+
+    <section id="contact" class="why-us pt-0 pb-1" style="background-color: #f6f7f6;">
+      <div class="container" data-aos="fade-up">
+          <div class="row counters" >
+              <div class="col-12 align-content-center">
+                  <h2 class="text-center">Contact Us</h2>
+                  <div >
+                      <p style="font-size: 20px"><i class="fas fa-phone text-success"></i>&nbsp; 07013137970</p>
+                     <p style="font-size: 20px"><i class="fas fa-envelope text-success"></i> &nbsp; ijmbstudycenter@gmail.com</p>
+
+                    <p style="font-size: 20px"><i class="fas fa-map-marker-alt text-success"></i> &nbsp; NO 1, Lao Bus|stop Along Airport Road,
+                    Ilorin Kwara State</p>
+
+                      <a href="https://api.whatsapp.com//send?phone=+2347013137970">  <img  src="/static/watsap.jpg" ></a>
+                      <br>
+                      <h5  style="font-family:'Rage Italic'">chat us now</h5>
+                  </div>
+
+              </div>
+
+
+          </div>
+
+
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Why Us Section -->
+        <br>
+        <br>
+        <br>
+        <br>
+
+
+    <!-- ======= Features Section ======= -->
+
+    <section id="features" class="features" style='background-color: #f6f7f6'>
+      <div class="container" data-aos="fade-up">
+           <h3 class="text-center"> <strong>Leave A Comment</strong> </h3>
+          <form method="post">
+              <input type="hidden" name="csrfmiddlewaretoken" value="eCYIbQAO46mXfdcQe1zZfbxFrSS4qQcuM7vZkV8lZjPTZBJqYTjFrCFYieTpQtNh">
+          <div class="row" data-aos="zoom-in" data-aos-delay="100">
+
+              <diV class="col-12 align-content-center">
+                  <div class="form-group">
+                      <input required class="form-control" name="names" type="text" placeholder="Name">
+                  </div>
+                   <div class="form-group">
+                        <input required class="form-control" name="ema" type="email" placeholder="Email">
+                   </div>
+                   <div class="form-group">
+                       <textarea required class="form-control" name="body" rows="8" placeholder="Leave a comment"></textarea>
+                   </div>
+
+                  <button class="btn-success"> Submit </button>
+
+              </diV>
+          </div>
+
+
+          </form>
+
+      </div>
+    </section><!-- End Features Section -->
+
+
+
+  </main><!-- End #main -->
+
+<hr>
+
+  <!-- End FORM -->
+
+
+
+
+ <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <br>
+    <br>
+   <div class="container">
+     <h6>Note the school phone number is <strong>07013137970</strong> please call if you have any problem</h6>
+
+   </div>
+    
+
+    <div class="footer-top">
+      <div class="container">
+
+        <div class="copyright">
+          &copy; Copyright <strong><span>2007-2021</span></strong>. All Rights Reserved
+        </div>
+        <div class="credits">
+
+          Designed by <a href="https://api.whatsapp.com//send?phone=+2349061710346"><img style="width :29px;"  src="/static/watsap.jpg">Gilberto Diamond</a>
+        </div>
+      </div>
+
+    </div>
+  </footer><!-- End Footer -->
+
+  <a href="#" class="back-to-top"><i class="bx bx-up-arrow-alt"></i></a>
+  <div id="preloader"></div>
+
+  <!-- Vendor JS Files -->
+  <script src="/static/assets/vendor/jquery/jquery.min.js"></script>
+  <script src="/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="/static/assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="/static/assets/vendor/php-email-form/validate.js"></script>
+  <script src="/static/assets/vendor/waypoints/jquery.waypoints.min.js"></script>
+  <script src="/static/assets/vendor/counterup/counterup.min.js"></script>
+  <script src="/static/assets/vendor/owl.carousel/owl.carousel.min.js"></script>
+  <script src="/static/assets/vendor/aos/aos.js"></script>
+
+  <!-- Template Main JS File -->
+    <script src="/static/assets/js/main.js"></script>
+
+  <script src="/static/assets/js/all.js"></script>
+
+
+
+
+
+
+
+</body>
+
+
+</html>
+

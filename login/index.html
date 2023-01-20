@@ -1,0 +1,363 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>IJMB and JUPEB 2020/2021 Registration Form | How To Register For IJMB and JUPEB </title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+
+  <link href="/static/abinalogo.png" rel="icon">
+  <link href="/static/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="/static/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="/static/assets/vendor/icofont/icofont.min.css" rel="stylesheet">
+  <link href="/static/assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="/static/assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="/static/assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="/static/assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="/static/assets/vendor/aos/aos.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href=" /static/assets/css/style.css" rel="stylesheet">
+
+
+</head>
+
+
+<body>
+
+
+  <header id="header" class="fixed-top">
+    <div class="container d-flex align-items-center">
+       <a href="/form_page/"><img style="width: 200px;" src="/static/abinalogos.jpg"></a> <br>
+       
+
+
+       <nav class="nav-menu d-none d-lg-block">
+
+        <ul>
+          <li class="active"><a href="/form_page/">Home</a></li>
+          <li><a href="#about">About</a></li>
+
+
+          <li class="drop-down"><a href="#">IJMBE AND JUPEB</a>
+            <ul>
+              <li><a href="#whatis">What is IJMBE and JUPEB</a></li>
+              <li ><a href="/buy_form/">IJMBE FORM</a></li>
+
+            </ul>
+          </li>
+          <li><a href="#contact">Contact</a></li>
+          <li><a href="/login/">Login</a></li>
+
+        </ul>
+      </nav><!-- .nav-menu -->
+
+      <a href="/buy_form/" class="get-started-btn scroll ">Register Here</a>
+
+    </div>
+  </header><!-- End Header -->
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+ <form method="post" onsubmit="return loginFunction()" id="ff">
+     <input type="hidden" name="csrfmiddlewaretoken" value="nqBsS6R4RpaQSVt0pwRijWEnhxjXd90BVV8J1bpBMCDMCj0A9oBYvnMG8TkiDMBo">
+    <div class="container align-content-center" id="FORMY" >
+        
+            <h4 style="text-align:center">Login</h4>
+           <div class="row " style="display:flex; justify-content:center">
+               
+               <!-- ijmb try-->
+
+               
+               <div class="col-md-8 col-sm-12">
+                   <div class="input form-group">
+                       <input type="text" CLASS="form-control" required placeholder="Student No" name="surname">
+                    </div>
+                        </div>
+
+                        
+                        
+                        <div class="col-md-8 col-sm-12">
+                            <div class="input form-group">
+                                <input type="password" CLASS="form-control" required type="password" placeholder="Password" name="password">
+                            </div>
+                        </div>
+
+                        <div class=" col-md-8 col-sm-12  " id="login-error" style="display:none;">
+                           
+                            <p class="text-danger"> invalid login parameter</p>
+                        </div>
+                        
+                    </div>
+
+
+
+              
+
+
+
+
+
+
+
+           
+
+
+
+
+
+
+
+
+
+
+
+             
+
+
+             
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           </div>
+
+
+
+       </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <div class="container">
+
+        <!-- <div class="bg-danger"> -->
+        <!-- </div> -->
+        <button class="btn-success mt-5" type="button" onclick="loginFunction()" style="width:100%; border-radius: 25px">Sign In</button>
+      </div>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+
+
+
+
+
+      </div>
+    </div>
+  </div>
+  <!-- End FORM -->
+
+ </form>
+ <script src="/static/assets/js/special.js"></script>
+ <script>
+    async function loginFunction(){
+        // e.preventDefault()
+       const invalue = {} 
+       console.log("lll")
+       var val =  document.getElementById("login-error")
+       const form =  document.getElementById("ff")
+        let inputElements = form.querySelectorAll("input, textarea");
+        inputElements.forEach(function(input) {
+            const vv = input.value
+            const vn = input.name
+            invalue[vn] =  vv
+            
+        });
+       const message = await sendRequest(LOGIN_URL,invalue)
+       console.log(message)
+
+       if(message["error"] === "Invalid  Passowrd"){
+         
+         val.style.display = "block"
+       }else{
+           redirectToDashboard()
+       }
+
+       
+      //  location.reload()
+    }
+ </script>
+
+
+
+ <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <br>
+    <br>
+   <div class="container">
+     <h6>Note the school phone number is <strong>07013137970</strong> please call if you have any problem</h6>
+
+   </div>
+    
+
+    <div class="footer-top">
+      <div class="container">
+
+        <div class="copyright">
+          &copy; Copyright <strong><span>2007-2021</span></strong>. All Rights Reserved
+        </div>
+        <div class="credits">
+
+          Designed by <a href="https://api.whatsapp.com//send?phone=2349132166076"><img style="width :29px;"  src="/static/watsap.jpg">Gilberto Diamond</a>
+        </div>
+      </div>
+
+    </div>
+  </footer><!-- End Footer -->
+
+  <a href="#" class="back-to-top"><i class="bx bx-up-arrow-alt"></i></a>
+  <div id="preloader"></div>
+
+  <!-- Vendor JS Files -->
+  <script src="/static/assets/vendor/jquery/jquery.min.js"></script>
+  <script src="/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="/static/assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="/static/assets/vendor/php-email-form/validate.js"></script>
+  <script src="/static/assets/vendor/waypoints/jquery.waypoints.min.js"></script>
+  <script src="/static/assets/vendor/counterup/counterup.min.js"></script>
+  <script src="/static/assets/vendor/owl.carousel/owl.carousel.min.js"></script>
+  <script src="/static/assets/vendor/aos/aos.js"></script>
+
+  <!-- Template Main JS File -->
+    <script src="/static/assets/js/main.js"></script>
+
+  <script src="/static/assets/js/all.js"></script>
+
+
+
+
+
+
+
+</body>
+
+
+</html>
+
